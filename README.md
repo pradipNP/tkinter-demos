@@ -48,6 +48,3 @@ python buttons.py
 - Practice assignments or exercises
 - Build mini Tkinter apps
 
-
-📜 License
-MIT License – free to use, modify, and share.
